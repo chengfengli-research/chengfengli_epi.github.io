@@ -28,17 +28,17 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD Candidate in Nutritional Epidemiology at Edith Cowan University."
   location         : "Perth, WA"
-  employer         : "Red Brick University"
+  employer         : "Nutrition & Health Innovation Research Institute, Edith Cowan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chengfeng.li@ecu.edu.au" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2fwLsvsAAAAJ&view_op=list_works&sortby=title"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6932-1625"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/chengfeng-li-88a46b288/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
